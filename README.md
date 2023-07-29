@@ -6,7 +6,7 @@ The Very Large Array Sky Survey (VLASS, https://science.nrao.edu/vlass) is a syn
 
 During the analysis of the epoch1 data from the VLASS survey, the following insights were obtained:
 
-#  Insight 1 :  All components with vs without Qualtity flag(QF) == 0
+### Insight 1 :  All components with vs without Qualtity flag(QF) == 0
 - Flagged distribution shows a reduced no of faint detections.
 - Distribution of all deviates from the flagged peak brightness by 5mJy/beam.
    ![Insight 1 Image](Images/output.png)
