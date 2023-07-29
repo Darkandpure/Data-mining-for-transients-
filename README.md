@@ -11,11 +11,22 @@ During the analysis of the epoch1 data from the VLASS survey, the following insi
 - Distribution of all deviates from the flagged peak brightness by 5mJy/beam.
    ![Insight 1 Image](Images/output.png)
 
-2. [Insight 2]: Description or summary of the second insight.
-   ![Insight 2 Image](images/insight2.png)
+### Insight 2 :Aitoff projection in equatorial (J2000) coordinates of the rms values found around all VLASS components
 
-3. [Insight 3]: Description or summary of the third insight.
-   ![Insight 3 Image](images/insight3.png)
+- For clarity only Isl rms < 200 µJy/beam are shown and on a log10 scale. Additionally this is limited to components with Quality flag == 0 and Duplicate flag <= 2
+- From this plot it is clear that the depth of the Quick Look imaging is not homogeneous.
+- Key features in this plot include the Galactic plane at low Galactic longitudes, the checker-board pattern at southern latitudes, high noise at the East-West boundaries of tiles, and a region of high noise at DEC ∼ +85 in the Western hemisphere (12 < RA < 24 hr).
+   ![Insight 2 Image](Images/aitoff.png)
+
+3. ### Insight 2 :Comparission to the vlass/cosmos flux ratio vs peak flux of vlass
+
+- shows deviation of flux betwn both 
+ - median value is 0.95
+ - below 3 mJy a scatter can be seen
+
+
+
+   ![Insight 3 Image](Images/flux_cal.png)
 
 ## Google Colab Notebook
 
