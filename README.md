@@ -7,7 +7,7 @@ The Very Large Array Sky Survey (VLASS, https://science.nrao.edu/vlass) is a syn
 During the analysis of the epoch1 data from the VLASS survey, the following insights were obtained:
 
 1. [Insight 1]: Description or summary of the first insight.
-   ![Insight 1 Image](images/insight1.png)
+   ![Insight 1 Image](Images/output.png)
 
 2. [Insight 2]: Description or summary of the second insight.
    ![Insight 2 Image](images/insight2.png)
