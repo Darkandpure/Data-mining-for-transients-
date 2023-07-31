@@ -18,7 +18,7 @@ During the analysis of the epoch1 data from the VLASS survey, the following insi
 - Key features in this plot include the Galactic plane at low Galactic longitudes, the checker-board pattern at southern latitudes, high noise at the East-West boundaries of tiles, and a region of high noise at DEC ∼ +85 in the Western hemisphere (12 < RA < 24 hr).
    ![Insight 2 Image](Images/aitoff.png)
 
-3. ### Insight 2 :Comparission to the vlass/cosmos flux ratio vs peak flux of vlass
+ ### Insight 3 :Comparission to the vlass/cosmos flux ratio vs peak flux of vlass
 
 - shows deviation of flux betwn both 
  - median value is 0.95
@@ -27,6 +27,15 @@ During the analysis of the epoch1 data from the VLASS survey, the following insi
 
 
    ![Insight 3 Image](Images/flux_cal.png)
+
+
+   ### Insight 4 :Comparission to the vlass flux density vs flux density of vlass
+
+
+
+
+   ![Insight 3 Image](Images/flux_density_cosmos.png)
+
 
 ## Google Colab Notebook
 
