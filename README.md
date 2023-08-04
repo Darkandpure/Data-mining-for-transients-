@@ -9,7 +9,7 @@ During the analysis of the epoch1 data from the VLASS survey, the following insi
 ### Insight 1 :  All components with vs without Qualtity flag(QF) == 0
 - Flagged distribution shows a reduced no of faint detections.
 - Distribution of all deviates from the flagged peak brightness by 5mJy/beam.
-   ![Insight 1 Image](Images/output.png)
+   ![Insight 1 Image](Images/flux.png)
 
 ### Insight 2 :Aitoff projection in equatorial (J2000) coordinates of the rms values found around all VLASS components
 
