@@ -16,7 +16,7 @@ During the analysis of the epoch1 data from the VLASS survey, the following insi
 - For clarity only Isl rms < 200 µJy/beam are shown and on a log10 scale. Additionally this is limited to components with Quality flag == 0 and Duplicate flag <= 2
 - From this plot it is clear that the depth of the Quick Look imaging is not homogeneous.
 - Key features in this plot include the Galactic plane at low Galactic longitudes, the checker-board pattern at southern latitudes, high noise at the East-West boundaries of tiles, and a region of high noise at DEC ∼ +85 in the Western hemisphere (12 < RA < 24 hr).
-   ![Insight 2 Image](Images/aitoff.png)
+   ![Insight 2 Image](Images/aitoff_f.png)
 
  ### Insight 3 :Comparission to the vlass/cosmos flux ratio vs peak flux of vlass
 
