@@ -34,8 +34,17 @@ During the analysis of the epoch1 data from the VLASS survey, the following insi
 
 
 
-   ![Insight 3 Image](Images/flux_density_cosmos.png)
+   ![Insight 4 Image](Images/flux_density_cosmos.png)
 
+
+   ### Insight 4 :Comparission to the vlass flux density vs flux density of vlass
+
+
+
+
+   ![Insight 5 Image](Images/vlass_plot1.png)
+
+  ### Insight 5 :The ratio of VLASS peak brightness to total flux density as a function of peak brightness
 
 ## Google Colab Notebook
 
